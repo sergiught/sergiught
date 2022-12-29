@@ -21,6 +21,10 @@ projects I work on.
 [![Send Me An Email](https://img.shields.io/badge/Send%20Me%20An-EMail-blue?logo=gmail&style=for-the-badge&color=0A84FF)][3]
 
 
+## :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
 [1]: https://sergiu.dev/
 [2]: https://github.com/sergiught
 [3]: mailto:mail[at]sergiu[dot]dev
