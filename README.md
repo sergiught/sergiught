@@ -1,9 +1,9 @@
 [![sergiught](https://i.imgur.com/0qZ8DtG.png)][1]
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=sergiught&style=for-the-badge&color=FAD230)][1]
-[![Golang](https://img.shields.io/badge/Golang-♥-blue?logo=go&style=for-the-badge&color=0A84FF)][2]
-[![Terraform](https://img.shields.io/badge/Terraform-♥-blue?logo=terraform&style=for-the-badge&color=9400FF)][2]
-[![Developer Experience](https://img.shields.io/badge/Developer%20Experience-♥-blue?logo=github&style=for-the-badge&color=red)][2]
+[![Golang](https://img.shields.io/badge/Golang-♥-blue?logo=go&style=for-the-badge&color=0A84FF)][1]
+[![Terraform](https://img.shields.io/badge/Terraform-♥-blue?logo=terraform&style=for-the-badge&color=9400FF)][1]
+[![Developer Experience](https://img.shields.io/badge/Developer%20Experience-♥-blue?logo=github&style=for-the-badge&color=red)][1]
 
 ---
 
@@ -18,7 +18,7 @@ for ways to improve myself :seedling: and the projects I work on.
 
 ## 📬 Get in touch
 
-[![Send Me An Email](https://img.shields.io/badge/Send%20Me%20An-EMail-blue?logo=gmail&style=for-the-badge&color=0A84FF)][3]
+[![Send Me An Email](https://img.shields.io/badge/Send%20Me%20An-EMail-blue?logo=gmail&style=for-the-badge&color=0A84FF)][2]
 
 
 ## :zap: Recent Activity
@@ -56,7 +56,13 @@ for ways to improve myself :seedling: and the projects I work on.
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
 </div>
 
+## :bar_chart: Github Stats
 
-[1]: https://sergiu.dev/
-[2]: https://github.com/sergiught
-[3]: mailto:mail[at]sergiu[dot]dev
+[![GitHub Streak](https://streak-stats.demolab.com?user=sergiught&theme=vue&hide_border=true&date_format=%5BY%20%5DM%20j&background=00000000)][1]
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sergiught&hide_title=true&count_private=true&show_icons=true&theme=vue&bg_color=00000000&text_color=4cbc8a&hide_border=true)][1]
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiught&hide_title=true&layout=compact&hide=html&theme=vue&bg_color=00000000&text_color=4cbc8a&hide_border=true)][1]
+
+
+<!-- Links --->
+[1]: https://github.com/sergiught
+[2]: mailto:mail[at]sergiu[dot]dev
