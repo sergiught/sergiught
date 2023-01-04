@@ -24,11 +24,11 @@ for ways to improve myself :seedling: and the projects I work on.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#424](https://github.com/auth0/terraform-provider-auth0/pull/424) in [auth0/terraform-provider-auth0](https://github.com/auth0/terraform-provider-auth0)
-2. 💪 Opened PR [#423](https://github.com/auth0/terraform-provider-auth0/pull/423) in [auth0/terraform-provider-auth0](https://github.com/auth0/terraform-provider-auth0)
-3. 🎉 Merged PR [#711](https://github.com/auth0/auth0-deploy-cli/pull/711) in [auth0/auth0-deploy-cli](https://github.com/auth0/auth0-deploy-cli)
-4. 🎉 Merged PR [#712](https://github.com/auth0/auth0-deploy-cli/pull/712) in [auth0/auth0-deploy-cli](https://github.com/auth0/auth0-deploy-cli)
-5. 💪 Opened PR [#906](https://github.com/getferdi/recipes/pull/906) in [getferdi/recipes](https://github.com/getferdi/recipes)
+1. ❗️ Closed issue [#407](https://github.com/auth0/terraform-provider-auth0/issues/407) in [auth0/terraform-provider-auth0](https://github.com/auth0/terraform-provider-auth0)
+2. 🗣 Commented on [#407](https://github.com/auth0/terraform-provider-auth0/issues/407) in [auth0/terraform-provider-auth0](https://github.com/auth0/terraform-provider-auth0)
+3. 🗣 Commented on [#246](https://github.com/auth0/terraform-provider-auth0/issues/246) in [auth0/terraform-provider-auth0](https://github.com/auth0/terraform-provider-auth0)
+4. 💪 Opened PR [#424](https://github.com/auth0/terraform-provider-auth0/pull/424) in [auth0/terraform-provider-auth0](https://github.com/auth0/terraform-provider-auth0)
+5. 💪 Opened PR [#423](https://github.com/auth0/terraform-provider-auth0/pull/423) in [auth0/terraform-provider-auth0](https://github.com/auth0/terraform-provider-auth0)
 <!--END_SECTION:activity-->
 
 
