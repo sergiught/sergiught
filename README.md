@@ -24,11 +24,11 @@ for ways to improve myself :seedling: and the projects I work on.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#630](https://github.com/auth0/auth0-cli/pull/630) in [auth0/auth0-cli](https://github.com/auth0/auth0-cli)
-2. 🎉 Merged PR [#631](https://github.com/auth0/auth0-cli/pull/631) in [auth0/auth0-cli](https://github.com/auth0/auth0-cli)
-3. 🎉 Merged PR [#151](https://github.com/auth0/go-auth0/pull/151) in [auth0/go-auth0](https://github.com/auth0/go-auth0)
-4. 💪 Opened PR [#629](https://github.com/auth0/auth0-cli/pull/629) in [auth0/auth0-cli](https://github.com/auth0/auth0-cli)
-5. 🎉 Merged PR [#719](https://github.com/auth0/auth0-deploy-cli/pull/719) in [auth0/auth0-deploy-cli](https://github.com/auth0/auth0-deploy-cli)
+1. 🎉 Merged PR [#148](https://github.com/auth0/go-auth0/pull/148) in [auth0/go-auth0](https://github.com/auth0/go-auth0)
+2. 🗣 Commented on [#148](https://github.com/auth0/go-auth0/issues/148) in [auth0/go-auth0](https://github.com/auth0/go-auth0)
+3. 🗣 Commented on [#148](https://github.com/auth0/go-auth0/issues/148) in [auth0/go-auth0](https://github.com/auth0/go-auth0)
+4. 🎉 Merged PR [#632](https://github.com/auth0/auth0-cli/pull/632) in [auth0/auth0-cli](https://github.com/auth0/auth0-cli)
+5. 🎉 Merged PR [#630](https://github.com/auth0/auth0-cli/pull/630) in [auth0/auth0-cli](https://github.com/auth0/auth0-cli)
 <!--END_SECTION:activity-->
 
 
