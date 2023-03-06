@@ -24,11 +24,11 @@ for ways to improve myself :seedling: and the projects I work on.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#658](https://github.com/auth0/auth0-cli/pull/658) in [auth0/auth0-cli](https://github.com/auth0/auth0-cli)
+1. 🎉 Merged PR [#657](https://github.com/auth0/auth0-cli/pull/657) in [auth0/auth0-cli](https://github.com/auth0/auth0-cli)
 2. 🗣 Commented on [#657](https://github.com/auth0/auth0-cli/issues/657) in [auth0/auth0-cli](https://github.com/auth0/auth0-cli)
-3. 🎉 Merged PR [#659](https://github.com/auth0/auth0-cli/pull/659) in [auth0/auth0-cli](https://github.com/auth0/auth0-cli)
-4. 🗣 Commented on [#659](https://github.com/auth0/auth0-cli/issues/659) in [auth0/auth0-cli](https://github.com/auth0/auth0-cli)
-5. 🎉 Merged PR [#655](https://github.com/auth0/auth0-cli/pull/655) in [auth0/auth0-cli](https://github.com/auth0/auth0-cli)
+3. 🎉 Merged PR [#658](https://github.com/auth0/auth0-cli/pull/658) in [auth0/auth0-cli](https://github.com/auth0/auth0-cli)
+4. 🗣 Commented on [#657](https://github.com/auth0/auth0-cli/issues/657) in [auth0/auth0-cli](https://github.com/auth0/auth0-cli)
+5. 🎉 Merged PR [#659](https://github.com/auth0/auth0-cli/pull/659) in [auth0/auth0-cli](https://github.com/auth0/auth0-cli)
 <!--END_SECTION:activity-->
 
 
