@@ -24,11 +24,11 @@ for ways to improve myself :seedling: and the projects I work on.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#662](https://github.com/auth0/auth0-cli/pull/662) in [auth0/auth0-cli](https://github.com/auth0/auth0-cli)
-2. ❌ Closed PR [#661](https://github.com/auth0/auth0-cli/pull/661) in [auth0/auth0-cli](https://github.com/auth0/auth0-cli)
-3. 🎉 Merged PR [#660](https://github.com/auth0/auth0-cli/pull/660) in [auth0/auth0-cli](https://github.com/auth0/auth0-cli)
-4. 💪 Opened PR [#661](https://github.com/auth0/auth0-cli/pull/661) in [auth0/auth0-cli](https://github.com/auth0/auth0-cli)
-5. 💪 Opened PR [#660](https://github.com/auth0/auth0-cli/pull/660) in [auth0/auth0-cli](https://github.com/auth0/auth0-cli)
+1. 💪 Opened PR [#663](https://github.com/auth0/auth0-cli/pull/663) in [auth0/auth0-cli](https://github.com/auth0/auth0-cli)
+2. 🎉 Merged PR [#662](https://github.com/auth0/auth0-cli/pull/662) in [auth0/auth0-cli](https://github.com/auth0/auth0-cli)
+3. ❌ Closed PR [#661](https://github.com/auth0/auth0-cli/pull/661) in [auth0/auth0-cli](https://github.com/auth0/auth0-cli)
+4. 🎉 Merged PR [#660](https://github.com/auth0/auth0-cli/pull/660) in [auth0/auth0-cli](https://github.com/auth0/auth0-cli)
+5. 💪 Opened PR [#661](https://github.com/auth0/auth0-cli/pull/661) in [auth0/auth0-cli](https://github.com/auth0/auth0-cli)
 <!--END_SECTION:activity-->
 
 
