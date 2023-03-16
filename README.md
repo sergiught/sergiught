@@ -24,11 +24,11 @@ for ways to improve myself :seedling: and the projects I work on.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#538](https://github.com/auth0/terraform-provider-auth0/pull/538) in [auth0/terraform-provider-auth0](https://github.com/auth0/terraform-provider-auth0)
-2. 💪 Opened PR [#537](https://github.com/auth0/terraform-provider-auth0/pull/537) in [auth0/terraform-provider-auth0](https://github.com/auth0/terraform-provider-auth0)
-3. ❌ Reopened PR [#535](https://github.com/auth0/terraform-provider-auth0/pull/535) in [auth0/terraform-provider-auth0](https://github.com/auth0/terraform-provider-auth0)
-4. 🗣 Commented on [#535](https://github.com/auth0/terraform-provider-auth0/issues/535) in [auth0/terraform-provider-auth0](https://github.com/auth0/terraform-provider-auth0)
-5. 🗣 Commented on [#533](https://github.com/auth0/terraform-provider-auth0/issues/533) in [auth0/terraform-provider-auth0](https://github.com/auth0/terraform-provider-auth0)
+1. 🎉 Merged PR [#537](https://github.com/auth0/terraform-provider-auth0/pull/537) in [auth0/terraform-provider-auth0](https://github.com/auth0/terraform-provider-auth0)
+2. 🎉 Merged PR [#525](https://github.com/auth0/terraform-provider-auth0/pull/525) in [auth0/terraform-provider-auth0](https://github.com/auth0/terraform-provider-auth0)
+3. 🎉 Merged PR [#538](https://github.com/auth0/terraform-provider-auth0/pull/538) in [auth0/terraform-provider-auth0](https://github.com/auth0/terraform-provider-auth0)
+4. 💪 Opened PR [#538](https://github.com/auth0/terraform-provider-auth0/pull/538) in [auth0/terraform-provider-auth0](https://github.com/auth0/terraform-provider-auth0)
+5. 💪 Opened PR [#537](https://github.com/auth0/terraform-provider-auth0/pull/537) in [auth0/terraform-provider-auth0](https://github.com/auth0/terraform-provider-auth0)
 <!--END_SECTION:activity-->
 
 
