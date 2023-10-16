@@ -24,11 +24,11 @@ for ways to improve myself :seedling: and the projects I work on.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#859](https://github.com/auth0/terraform-provider-auth0/pull/859) in [auth0/terraform-provider-auth0](https://github.com/auth0/terraform-provider-auth0)
-2. 🎉 Merged PR [#873](https://github.com/auth0/auth0-cli/pull/873) in [auth0/auth0-cli](https://github.com/auth0/auth0-cli)
-3. 💪 Opened PR [#873](https://github.com/auth0/auth0-cli/pull/873) in [auth0/auth0-cli](https://github.com/auth0/auth0-cli)
-4. 🎉 Merged PR [#872](https://github.com/auth0/auth0-cli/pull/872) in [auth0/auth0-cli](https://github.com/auth0/auth0-cli)
-5. 🎉 Merged PR [#869](https://github.com/auth0/auth0-cli/pull/869) in [auth0/auth0-cli](https://github.com/auth0/auth0-cli)
+1. 🎉 Merged PR [#878](https://github.com/auth0/auth0-cli/pull/878) in [auth0/auth0-cli](https://github.com/auth0/auth0-cli)
+2. 💪 Opened PR [#878](https://github.com/auth0/auth0-cli/pull/878) in [auth0/auth0-cli](https://github.com/auth0/auth0-cli)
+3. 🎉 Merged PR [#859](https://github.com/auth0/terraform-provider-auth0/pull/859) in [auth0/terraform-provider-auth0](https://github.com/auth0/terraform-provider-auth0)
+4. 🎉 Merged PR [#873](https://github.com/auth0/auth0-cli/pull/873) in [auth0/auth0-cli](https://github.com/auth0/auth0-cli)
+5. 💪 Opened PR [#873](https://github.com/auth0/auth0-cli/pull/873) in [auth0/auth0-cli](https://github.com/auth0/auth0-cli)
 <!--END_SECTION:activity-->
 
 
