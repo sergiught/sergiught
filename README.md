@@ -24,11 +24,11 @@ for ways to improve myself :seedling: and the projects I work on.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1264](https://github.com/openfga/openfga/pull/1264) in [openfga/openfga](https://github.com/openfga/openfga)
-2. 💪 Opened PR [#1263](https://github.com/openfga/openfga/pull/1263) in [openfga/openfga](https://github.com/openfga/openfga)
-3. 💪 Opened PR [#1262](https://github.com/openfga/openfga/pull/1262) in [openfga/openfga](https://github.com/openfga/openfga)
-4. 💪 Opened PR [#1261](https://github.com/openfga/openfga/pull/1261) in [openfga/openfga](https://github.com/openfga/openfga)
-5. 🎉 Merged PR [#951](https://github.com/auth0/auth0-cli/pull/951) in [auth0/auth0-cli](https://github.com/auth0/auth0-cli)
+1. 🗣 Commented on [#208](https://github.com/openfga/cli/issues/208) in [openfga/cli](https://github.com/openfga/cli)
+2. 💪 Opened PR [#1264](https://github.com/openfga/openfga/pull/1264) in [openfga/openfga](https://github.com/openfga/openfga)
+3. 💪 Opened PR [#1263](https://github.com/openfga/openfga/pull/1263) in [openfga/openfga](https://github.com/openfga/openfga)
+4. 💪 Opened PR [#1262](https://github.com/openfga/openfga/pull/1262) in [openfga/openfga](https://github.com/openfga/openfga)
+5. 💪 Opened PR [#1261](https://github.com/openfga/openfga/pull/1261) in [openfga/openfga](https://github.com/openfga/openfga)
 <!--END_SECTION:activity-->
 
 
