@@ -24,11 +24,11 @@ for ways to improve myself :seedling: and the projects I work on.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#211](https://github.com/openfga/cli/pull/211) in [openfga/cli](https://github.com/openfga/cli)
-2. 💪 Opened PR [#211](https://github.com/openfga/cli/pull/211) in [openfga/cli](https://github.com/openfga/cli)
-3. 🎉 Merged PR [#209](https://github.com/openfga/cli/pull/209) in [openfga/cli](https://github.com/openfga/cli)
-4. 💪 Opened PR [#209](https://github.com/openfga/cli/pull/209) in [openfga/cli](https://github.com/openfga/cli)
-5. 💪 Opened PR [#1285](https://github.com/openfga/openfga/pull/1285) in [openfga/openfga](https://github.com/openfga/openfga)
+1. 🎉 Merged PR [#904](https://github.com/auth0/terraform-provider-auth0/pull/904) in [auth0/terraform-provider-auth0](https://github.com/auth0/terraform-provider-auth0)
+2. 🎉 Merged PR [#211](https://github.com/openfga/cli/pull/211) in [openfga/cli](https://github.com/openfga/cli)
+3. 💪 Opened PR [#211](https://github.com/openfga/cli/pull/211) in [openfga/cli](https://github.com/openfga/cli)
+4. 🎉 Merged PR [#209](https://github.com/openfga/cli/pull/209) in [openfga/cli](https://github.com/openfga/cli)
+5. 💪 Opened PR [#209](https://github.com/openfga/cli/pull/209) in [openfga/cli](https://github.com/openfga/cli)
 <!--END_SECTION:activity-->
 
 
