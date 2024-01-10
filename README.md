@@ -24,11 +24,11 @@ for ways to improve myself :seedling: and the projects I work on.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#206](https://github.com/openfga/cli/issues/206) in [openfga/cli](https://github.com/openfga/cli)
-2. ❗️ Reopened issue [#206](https://github.com/openfga/cli/issues/206) in [openfga/cli](https://github.com/openfga/cli)
-3. 🗣 Commented on [#206](https://github.com/openfga/cli/issues/206) in [openfga/cli](https://github.com/openfga/cli)
-4. ❗️ Closed issue [#206](https://github.com/openfga/cli/issues/206) in [openfga/cli](https://github.com/openfga/cli)
-5. 💪 Opened PR [#222](https://github.com/openfga/cli/pull/222) in [openfga/cli](https://github.com/openfga/cli)
+1. 🎉 Merged PR [#1285](https://github.com/openfga/openfga/pull/1285) in [openfga/openfga](https://github.com/openfga/openfga)
+2. 🗣 Commented on [#206](https://github.com/openfga/cli/issues/206) in [openfga/cli](https://github.com/openfga/cli)
+3. ❗️ Reopened issue [#206](https://github.com/openfga/cli/issues/206) in [openfga/cli](https://github.com/openfga/cli)
+4. 🗣 Commented on [#206](https://github.com/openfga/cli/issues/206) in [openfga/cli](https://github.com/openfga/cli)
+5. ❗️ Closed issue [#206](https://github.com/openfga/cli/issues/206) in [openfga/cli](https://github.com/openfga/cli)
 <!--END_SECTION:activity-->
 
 
