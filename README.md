@@ -24,11 +24,11 @@ for ways to improve myself :seedling: and the projects I work on.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1285](https://github.com/openfga/openfga/pull/1285) in [openfga/openfga](https://github.com/openfga/openfga)
-2. 🗣 Commented on [#206](https://github.com/openfga/cli/issues/206) in [openfga/cli](https://github.com/openfga/cli)
-3. ❗️ Reopened issue [#206](https://github.com/openfga/cli/issues/206) in [openfga/cli](https://github.com/openfga/cli)
+1. 🎉 Merged PR [#905](https://github.com/auth0/terraform-provider-auth0/pull/905) in [auth0/terraform-provider-auth0](https://github.com/auth0/terraform-provider-auth0)
+2. 💪 Opened PR [#905](https://github.com/auth0/terraform-provider-auth0/pull/905) in [auth0/terraform-provider-auth0](https://github.com/auth0/terraform-provider-auth0)
+3. 🎉 Merged PR [#1285](https://github.com/openfga/openfga/pull/1285) in [openfga/openfga](https://github.com/openfga/openfga)
 4. 🗣 Commented on [#206](https://github.com/openfga/cli/issues/206) in [openfga/cli](https://github.com/openfga/cli)
-5. ❗️ Closed issue [#206](https://github.com/openfga/cli/issues/206) in [openfga/cli](https://github.com/openfga/cli)
+5. ❗️ Reopened issue [#206](https://github.com/openfga/cli/issues/206) in [openfga/cli](https://github.com/openfga/cli)
 <!--END_SECTION:activity-->
 
 
