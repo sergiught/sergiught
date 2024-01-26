@@ -24,11 +24,11 @@ for ways to improve myself :seedling: and the projects I work on.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#242](https://github.com/openfga/cli/pull/242) in [openfga/cli](https://github.com/openfga/cli)
-2. 🎉 Merged PR [#907](https://github.com/auth0/terraform-provider-auth0/pull/907) in [auth0/terraform-provider-auth0](https://github.com/auth0/terraform-provider-auth0)
-3. 🗣 Commented on [#895](https://github.com/auth0/terraform-provider-auth0/issues/895) in [auth0/terraform-provider-auth0](https://github.com/auth0/terraform-provider-auth0)
-4. ❗️ Closed issue [#895](https://github.com/auth0/terraform-provider-auth0/issues/895) in [auth0/terraform-provider-auth0](https://github.com/auth0/terraform-provider-auth0)
-5. 🎉 Merged PR [#906](https://github.com/auth0/terraform-provider-auth0/pull/906) in [auth0/terraform-provider-auth0](https://github.com/auth0/terraform-provider-auth0)
+1. 💪 Opened PR [#1320](https://github.com/openfga/openfga/pull/1320) in [openfga/openfga](https://github.com/openfga/openfga)
+2. 💪 Opened PR [#242](https://github.com/openfga/cli/pull/242) in [openfga/cli](https://github.com/openfga/cli)
+3. 🎉 Merged PR [#907](https://github.com/auth0/terraform-provider-auth0/pull/907) in [auth0/terraform-provider-auth0](https://github.com/auth0/terraform-provider-auth0)
+4. 🗣 Commented on [#895](https://github.com/auth0/terraform-provider-auth0/issues/895) in [auth0/terraform-provider-auth0](https://github.com/auth0/terraform-provider-auth0)
+5. ❗️ Closed issue [#895](https://github.com/auth0/terraform-provider-auth0/issues/895) in [auth0/terraform-provider-auth0](https://github.com/auth0/terraform-provider-auth0)
 <!--END_SECTION:activity-->
 
 
