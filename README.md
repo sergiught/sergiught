@@ -24,11 +24,11 @@ for ways to improve myself :seedling: and the projects I work on.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#103](https://github.com/openfga/helm-charts/pull/103) in [openfga/helm-charts](https://github.com/openfga/helm-charts)
-2. 💪 Opened PR [#103](https://github.com/openfga/helm-charts/pull/103) in [openfga/helm-charts](https://github.com/openfga/helm-charts)
-3. 💪 Opened PR [#1320](https://github.com/openfga/openfga/pull/1320) in [openfga/openfga](https://github.com/openfga/openfga)
-4. 💪 Opened PR [#242](https://github.com/openfga/cli/pull/242) in [openfga/cli](https://github.com/openfga/cli)
-5. 🎉 Merged PR [#907](https://github.com/auth0/terraform-provider-auth0/pull/907) in [auth0/terraform-provider-auth0](https://github.com/auth0/terraform-provider-auth0)
+1. 🎉 Merged PR [#242](https://github.com/openfga/cli/pull/242) in [openfga/cli](https://github.com/openfga/cli)
+2. 🎉 Merged PR [#103](https://github.com/openfga/helm-charts/pull/103) in [openfga/helm-charts](https://github.com/openfga/helm-charts)
+3. 💪 Opened PR [#103](https://github.com/openfga/helm-charts/pull/103) in [openfga/helm-charts](https://github.com/openfga/helm-charts)
+4. 💪 Opened PR [#1320](https://github.com/openfga/openfga/pull/1320) in [openfga/openfga](https://github.com/openfga/openfga)
+5. 💪 Opened PR [#242](https://github.com/openfga/cli/pull/242) in [openfga/cli](https://github.com/openfga/cli)
 <!--END_SECTION:activity-->
 
 
