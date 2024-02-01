@@ -24,11 +24,11 @@ for ways to improve myself :seedling: and the projects I work on.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#970](https://github.com/auth0/auth0-cli/pull/970) in [auth0/auth0-cli](https://github.com/auth0/auth0-cli)
-2. 🎉 Merged PR [#969](https://github.com/auth0/auth0-cli/pull/969) in [auth0/auth0-cli](https://github.com/auth0/auth0-cli)
-3. 💪 Opened PR [#969](https://github.com/auth0/auth0-cli/pull/969) in [auth0/auth0-cli](https://github.com/auth0/auth0-cli)
-4. 🎉 Merged PR [#963](https://github.com/auth0/auth0-cli/pull/963) in [auth0/auth0-cli](https://github.com/auth0/auth0-cli)
-5. 🗣 Commented on [#963](https://github.com/auth0/auth0-cli/issues/963) in [auth0/auth0-cli](https://github.com/auth0/auth0-cli)
+1. 🎉 Merged PR [#970](https://github.com/auth0/auth0-cli/pull/970) in [auth0/auth0-cli](https://github.com/auth0/auth0-cli)
+2. 💪 Opened PR [#970](https://github.com/auth0/auth0-cli/pull/970) in [auth0/auth0-cli](https://github.com/auth0/auth0-cli)
+3. 🎉 Merged PR [#969](https://github.com/auth0/auth0-cli/pull/969) in [auth0/auth0-cli](https://github.com/auth0/auth0-cli)
+4. 💪 Opened PR [#969](https://github.com/auth0/auth0-cli/pull/969) in [auth0/auth0-cli](https://github.com/auth0/auth0-cli)
+5. 🎉 Merged PR [#963](https://github.com/auth0/auth0-cli/pull/963) in [auth0/auth0-cli](https://github.com/auth0/auth0-cli)
 <!--END_SECTION:activity-->
 
 
