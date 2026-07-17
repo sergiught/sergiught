@@ -67,13 +67,13 @@ Off the clock, I’m a serious foodie. I love hunting down new restaurants, cook
 
 <div align="center">
 
-<img src="./profile-summary-card-output/vue/0-profile-details.svg" width="82%" alt="Profile details" />
+<img src="./profile-summary-card-output/nord_bright/0-profile-details.svg" width="82%" alt="Profile details" />
 
-<img src="./profile-summary-card-output/vue/3-stats.svg" width="42%" alt="Stats" />
-<img src="./profile-summary-card-output/vue/4-productive-time.svg" width="42%" alt="Productive time" />
+<img src="./profile-summary-card-output/nord_bright/3-stats.svg" width="42%" alt="Stats" />
+<img src="./profile-summary-card-output/nord_bright/4-productive-time.svg" width="42%" alt="Productive time" />
 
-<img src="./profile-summary-card-output/vue/1-repos-per-language.svg" width="42%" alt="Top languages by repo" />
-<img src="./profile-summary-card-output/vue/2-most-commit-language.svg" width="42%" alt="Top languages by commit" />
+<img src="./profile-summary-card-output/nord_bright/1-repos-per-language.svg" width="42%" alt="Top languages by repo" />
+<img src="./profile-summary-card-output/nord_bright/2-most-commit-language.svg" width="42%" alt="Top languages by commit" />
 
 </div>
 
