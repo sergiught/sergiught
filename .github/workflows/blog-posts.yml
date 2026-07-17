@@ -1,0 +1,22 @@
+name: Latest Blog Posts
+
+on:
+  schedule:
+    - cron: '0 6 * * *' # https://crontab.guru/#0_6_*_*_* (once a day)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: 'https://sergiu.dev/posts/index.xml'
+          max_post_count: 5
+          template: '- [$title]($url) — $date$newline'
+          date_format: 'mmm d, yyyy'
