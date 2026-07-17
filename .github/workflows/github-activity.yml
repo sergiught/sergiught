@@ -2,15 +2,18 @@ name: GitHub Activity
 
 on:
   schedule:
-    - cron: '*/120 * * * *' # https://crontab.guru/#*/120_*_*_*_*
+    - cron: '0 */12 * * *' # https://crontab.guru/#0_*/12_*_*_* (twice a day)
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
     name: Update the README
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: jamesgeorge007/github-activity-readme@v0.3.6
+      - uses: actions/checkout@v4
+      - uses: jamesgeorge007/github-activity-readme@v0.5.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
