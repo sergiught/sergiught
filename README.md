@@ -30,6 +30,23 @@ Off the clock, I’m a serious foodie. I love hunting down new restaurants, cook
 </div>
 
 
+## 🚀 My latest projects
+
+- **[auth0-mock](https://github.com/sergiught/auth0-mock)** — Drop-in mock Auth0 HTTP API for tests and local dev: real RS256 JWTs, 400+ Management API endpoints, no code changes required.
+- **[go-openfga](https://github.com/sergiught/go-openfga)** — A hand-crafted, idiomatic Go client for the OpenFGA HTTP API.
+- **[openfga-cli](https://github.com/sergiught/openfga-cli)** — A modern CLI & TUI for OpenFGA.
+
+
+## ✍️ My recent blog posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Stop pointing your tests at a real Auth0 tenant](https://sergiu.dev/posts/auth0-mock/) — May 27, 2026
+- [Most engineering initiatives don't fail at execution](https://sergiu.dev/posts/shipping-engineering-initiatives/) — May 10, 2026
+- [OpenFGA: the authorization layer your code keeps trying to reinvent](https://sergiu.dev/posts/openfga-primer/) — May 9, 2026
+- [An encrypted Arch Linux install you can actually maintain](https://sergiu.dev/posts/archlinux/) — May 8, 2026
+<!-- BLOG-POST-LIST:END -->
+
+
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
