@@ -24,11 +24,11 @@ Off the clock, I’m a serious foodie. I love hunting down new restaurants, cook
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#269](https://github.com/auth0/go-jwt-middleware/issues/269) in [auth0/go-jwt-middleware](https://github.com/auth0/go-jwt-middleware)
-2. 💪 Opened PR [#292](https://github.com/charmbracelet/charm/pull/292) in [charmbracelet/charm](https://github.com/charmbracelet/charm)
-3. 💪 Opened PR [#357](https://github.com/openfga/cli/pull/357) in [openfga/cli](https://github.com/openfga/cli)
-4. 🗣 Commented on [#966](https://github.com/auth0/terraform-provider-auth0/issues/966) in [auth0/terraform-provider-auth0](https://github.com/auth0/terraform-provider-auth0)
-5. ❗️ Closed issue [#966](https://github.com/auth0/terraform-provider-auth0/issues/966) in [auth0/terraform-provider-auth0](https://github.com/auth0/terraform-provider-auth0)
+1. 🎉 Merged PR [#17](https://github.com/sergiught/openfga-cli/pull/17) in [sergiught/openfga-cli](https://github.com/sergiught/openfga-cli)
+2. 🎉 Merged PR [#16](https://github.com/sergiught/openfga-cli/pull/16) in [sergiught/openfga-cli](https://github.com/sergiught/openfga-cli)
+3. ℹ️ Labeled PR [#21](https://github.com/sergiught/openfga-cli/pull/21) in [sergiught/openfga-cli](https://github.com/sergiught/openfga-cli)
+4. 💪 Opened PR [#21](https://github.com/sergiught/openfga-cli/pull/21) in [sergiught/openfga-cli](https://github.com/sergiught/openfga-cli)
+5. 🎉 Merged PR [#13](https://github.com/sergiught/openfga-cli/pull/13) in [sergiught/openfga-cli](https://github.com/sergiught/openfga-cli)
 <!--END_SECTION:activity-->
 
 
