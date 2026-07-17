@@ -1,10 +1,14 @@
-[![sergiught](https://i.imgur.com/0qZ8DtG.png)][1]
+[![sergiught](https://raw.githubusercontent.com/sergiught/sergiught/main/.github/assets/hero.png)][1]
+
+<div align="center">
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=sergiught&style=for-the-badge&color=FAD230)][1]
 [![Golang](https://img.shields.io/badge/Golang-♥-blue?logo=go&style=for-the-badge&color=0A84FF)][1]
 [![Terraform](https://img.shields.io/badge/Terraform-♥-blue?logo=terraform&style=for-the-badge&color=9400FF)][1]
 [![Developer Experience](https://img.shields.io/badge/Developer%20Experience-♥-blue?logo=github&style=for-the-badge&color=red)][1]
 [![Authorization](https://img.shields.io/badge/Authorization-♥-blue?logo=auth0&style=for-the-badge&color=EB5424)][1]
+
+</div>
 
 ---
 
@@ -59,11 +63,19 @@ Off the clock, I’m a serious foodie. I love hunting down new restaurants, cook
   <img src="https://github.com/devicons/devicon/raw/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
 </div>
 
-## :bar_chart: Github Stats
+## :bar_chart: GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sergiught&theme=vue&hide_border=true&date_format=%5BY%20%5DM%20j&background=00000000)][1]
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sergiught&hide_title=true&count_private=true&show_icons=true&theme=vue&bg_color=00000000&text_color=4cbc8a&hide_border=true)][1]
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiught&hide_title=true&layout=compact&hide=html&theme=vue&bg_color=00000000&text_color=4cbc8a&hide_border=true)][1]
+<div align="center">
+
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="80%" alt="Profile details" />
+
+<img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="Stats" />
+<img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" alt="Productive time" />
+
+<img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="Repos per language" />
+<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Most commit language" />
+
+</div>
 
 
 <!-- Links --->
