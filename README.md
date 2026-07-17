@@ -4,6 +4,7 @@
 [![Golang](https://img.shields.io/badge/Golang-♥-blue?logo=go&style=for-the-badge&color=0A84FF)][1]
 [![Terraform](https://img.shields.io/badge/Terraform-♥-blue?logo=terraform&style=for-the-badge&color=9400FF)][1]
 [![Developer Experience](https://img.shields.io/badge/Developer%20Experience-♥-blue?logo=github&style=for-the-badge&color=red)][1]
+[![Authorization](https://img.shields.io/badge/Authorization-♥-blue?logo=auth0&style=for-the-badge&color=EB5424)][1]
 
 ---
 
@@ -37,6 +38,8 @@ Off the clock, I’m a serious foodie. I love hunting down new restaurants, cook
 <div>
   <img src="https://github.com/devicons/devicon/raw/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/raw/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/openfga/icon/color/openfga-icon-color.svg" title="OpenFGA" alt="OpenFGA" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/auth0/EB5424" title="Auth0" alt="Auth0" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/raw/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/raw/master/icons/vuejs/vuejs-original.svg" title="VueJS" alt="VueJS" width="40" height="40"/>&nbsp;
@@ -51,7 +54,7 @@ Off the clock, I’m a serious foodie. I love hunting down new restaurants, cook
   <img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/raw/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/raw/master/icons/cucumber/cucumber-plain-wordmark.svg" title="Cucumber" alt="Cucumber" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/raw/master/icons/laravel/laravel-plain.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/raw/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/raw/master/icons/jetbrains/jetbrains-original.svg" title="JetBrains" alt="JetBrains" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/raw/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
 </div>
