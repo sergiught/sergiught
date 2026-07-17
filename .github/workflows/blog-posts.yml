@@ -15,8 +15,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: gautamkrishnar/blog-post-workflow@v1
+        env:
+          TZ: 'Europe/Madrid'
         with:
           feed_list: 'https://sergiu.dev/posts/index.xml'
           max_post_count: 5
-          template: '- [$title]($url) — $date$newline'
+          template: '$newline- [$title]($url) — $date'
           date_format: 'mmm d, yyyy'
