@@ -1,4 +1,4 @@
-[![sergiught](https://raw.githubusercontent.com/sergiught/sergiught/main/.github/assets/hero.svg)][1]
+[![sergiught](https://i.imgur.com/0qZ8DtG.png)][1]
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=sergiught&style=for-the-badge&color=FAD230)][1]
 [![Golang](https://img.shields.io/badge/Golang-♥-blue?logo=go&style=for-the-badge&color=0A84FF)][1]
