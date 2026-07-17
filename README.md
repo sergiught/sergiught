@@ -2,11 +2,11 @@
 
 <div align="center">
 
-[![GitHub Views](https://komarev.com/ghpvc/?username=sergiught&style=for-the-badge&color=FAD230)][1]
-[![Golang](https://img.shields.io/badge/Golang-♥-blue?logo=go&style=for-the-badge&color=0A84FF)][1]
-[![Terraform](https://img.shields.io/badge/Terraform-♥-blue?logo=terraform&style=for-the-badge&color=9400FF)][1]
-[![Developer Experience](https://img.shields.io/badge/Developer%20Experience-♥-blue?logo=github&style=for-the-badge&color=red)][1]
-[![Authorization](https://img.shields.io/badge/Authorization-♥-blue?logo=auth0&style=for-the-badge&color=EB5424)][1]
+[![Profile Views](https://komarev.com/ghpvc/?username=sergiught&style=for-the-badge&color=4C566A)][1]
+[![Go](https://img.shields.io/badge/Go-5E81AC?logo=go&logoColor=white&style=for-the-badge)][1]
+[![Terraform](https://img.shields.io/badge/Terraform-B48EAD?logo=terraform&logoColor=white&style=for-the-badge)][1]
+[![Developer Experience](https://img.shields.io/badge/Developer%20Experience-8FBCBB?logo=github&logoColor=white&style=for-the-badge)][1]
+[![Authorization](https://img.shields.io/badge/Authorization-D08770?logo=auth0&logoColor=white&style=for-the-badge)][1]
 
 </div>
 
@@ -23,7 +23,11 @@ Off the clock, I’m a serious foodie. I love hunting down new restaurants, cook
 
 ## 📬 Get in touch
 
-[![Send Me An Email](https://img.shields.io/badge/Send%20Me%20An-EMail-blue?logo=gmail&style=for-the-badge&color=0A84FF)][2]
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-sergiu.dev-5E81AC?logo=firefoxbrowser&logoColor=white&style=for-the-badge)](https://sergiu.dev)
+
+</div>
 
 
 ## :zap: Recent Activity
@@ -39,28 +43,16 @@ Off the clock, I’m a serious foodie. I love hunting down new restaurants, cook
 
 ## 🧰 Languages and Tools
 
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/raw/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/raw/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/openfga/icon/color/openfga-icon-color.svg" title="OpenFGA" alt="OpenFGA" width="40" height="40"/>&nbsp;
   <img src="https://cdn.simpleicons.org/auth0/EB5424" title="Auth0" alt="Auth0" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/raw/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/raw/master/icons/vuejs/vuejs-original.svg" title="VueJS" alt="VueJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/raw/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/raw/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/raw/master/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/raw/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/raw/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/raw/master/icons/cucumber/cucumber-plain-wordmark.svg" title="Cucumber" alt="Cucumber" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/raw/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/raw/master/icons/jetbrains/jetbrains-original.svg" title="JetBrains" alt="JetBrains" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/raw/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
 </div>
 
 ## :bar_chart: GitHub Stats
@@ -80,4 +72,3 @@ Off the clock, I’m a serious foodie. I love hunting down new restaurants, cook
 
 <!-- Links --->
 [1]: https://github.com/sergiught
-[2]: mailto:mail[at]sergiu[dot]dev
