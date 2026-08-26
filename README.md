@@ -49,11 +49,11 @@ Off the clock, I’m a serious foodie. I love hunting down new restaurants, cook
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#127](https://github.com/sergiught/openfga-cli/pull/127) in [sergiught/openfga-cli](https://github.com/sergiught/openfga-cli)
-2. 💪 Opened PR [#127](https://github.com/sergiught/openfga-cli/pull/127) in [sergiught/openfga-cli](https://github.com/sergiught/openfga-cli)
-3. 🎉 Merged PR [#66](https://github.com/sergiught/auth0-mock/pull/66) in [sergiught/auth0-mock](https://github.com/sergiught/auth0-mock)
-4. 💪 Opened PR [#66](https://github.com/sergiught/auth0-mock/pull/66) in [sergiught/auth0-mock](https://github.com/sergiught/auth0-mock)
-5. 🎉 Merged PR [#65](https://github.com/sergiught/auth0-mock/pull/65) in [sergiught/auth0-mock](https://github.com/sergiught/auth0-mock)
+1. ℹ️ Labeled issue [#73](https://github.com/sergiught/auth0-mock/issues/73) in [sergiught/auth0-mock](https://github.com/sergiught/auth0-mock)
+2. ❗ Opened issue [#73](https://github.com/sergiught/auth0-mock/issues/73) in [sergiught/auth0-mock](https://github.com/sergiught/auth0-mock)
+3. ℹ️ Labeled issue [#72](https://github.com/sergiught/auth0-mock/issues/72) in [sergiught/auth0-mock](https://github.com/sergiught/auth0-mock)
+4. ❗ Opened issue [#72](https://github.com/sergiught/auth0-mock/issues/72) in [sergiught/auth0-mock](https://github.com/sergiught/auth0-mock)
+5. 💪 Opened PR [#71](https://github.com/sergiught/auth0-mock/pull/71) in [sergiught/auth0-mock](https://github.com/sergiught/auth0-mock)
 <!--END_SECTION:activity-->
 
 
