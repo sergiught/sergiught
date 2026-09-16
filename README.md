@@ -49,11 +49,11 @@ Off the clock, I’m a serious foodie. I love hunting down new restaurants, cook
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#144](https://github.com/sergiught/openfga-cli/pull/144) in [sergiught/openfga-cli](https://github.com/sergiught/openfga-cli)
-2. 💪 Opened PR [#144](https://github.com/sergiught/openfga-cli/pull/144) in [sergiught/openfga-cli](https://github.com/sergiught/openfga-cli)
-3. 🎉 Merged PR [#141](https://github.com/sergiught/openfga-cli/pull/141) in [sergiught/openfga-cli](https://github.com/sergiught/openfga-cli)
-4. 💪 Opened PR [#141](https://github.com/sergiught/openfga-cli/pull/141) in [sergiught/openfga-cli](https://github.com/sergiught/openfga-cli)
-5. 🎉 Merged PR [#140](https://github.com/sergiught/openfga-cli/pull/140) in [sergiught/openfga-cli](https://github.com/sergiught/openfga-cli)
+1. 🗣 Commented on [#5782](https://github.com/quickwit-oss/quickwit/issues/5782#issuecomment-5693859990) in [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit)
+2. 💪 Opened PR [#6803](https://github.com/quickwit-oss/quickwit/pull/6803) in [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit)
+3. 💪 Opened PR [#1](https://github.com/sergiught/quickwit/pull/1) in [sergiught/quickwit](https://github.com/sergiught/quickwit)
+4. 🎉 Merged PR [#144](https://github.com/sergiught/openfga-cli/pull/144) in [sergiught/openfga-cli](https://github.com/sergiught/openfga-cli)
+5. 💪 Opened PR [#144](https://github.com/sergiught/openfga-cli/pull/144) in [sergiught/openfga-cli](https://github.com/sergiught/openfga-cli)
 <!--END_SECTION:activity-->
 
 
