@@ -49,11 +49,11 @@ Off the clock, I’m a serious foodie. I love hunting down new restaurants, cook
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5782](https://github.com/quickwit-oss/quickwit/issues/5782#issuecomment-5693859990) in [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit)
-2. 💪 Opened PR [#6803](https://github.com/quickwit-oss/quickwit/pull/6803) in [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit)
-3. 💪 Opened PR [#1](https://github.com/sergiught/quickwit/pull/1) in [sergiught/quickwit](https://github.com/sergiught/quickwit)
-4. 🎉 Merged PR [#144](https://github.com/sergiught/openfga-cli/pull/144) in [sergiught/openfga-cli](https://github.com/sergiught/openfga-cli)
-5. 💪 Opened PR [#144](https://github.com/sergiught/openfga-cli/pull/144) in [sergiught/openfga-cli](https://github.com/sergiught/openfga-cli)
+1. 🎉 Merged PR [#26](https://github.com/sergiught/go-openfga/pull/26) in [sergiught/go-openfga](https://github.com/sergiught/go-openfga)
+2. 💪 Opened PR [#26](https://github.com/sergiught/go-openfga/pull/26) in [sergiught/go-openfga](https://github.com/sergiught/go-openfga)
+3. ℹ️ Labeled PR [#25](https://github.com/sergiught/go-openfga/pull/25) in [sergiught/go-openfga](https://github.com/sergiught/go-openfga)
+4. ℹ️ Unlabeled PR [#25](https://github.com/sergiught/go-openfga/pull/25) in [sergiught/go-openfga](https://github.com/sergiught/go-openfga)
+5. 🗣 Commented on [#25](https://github.com/sergiught/go-openfga/pull/25#issuecomment-6099195966) in [sergiught/go-openfga](https://github.com/sergiught/go-openfga)
 <!--END_SECTION:activity-->
 
 
