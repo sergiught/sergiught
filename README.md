@@ -49,11 +49,11 @@ Off the clock, I’m a serious foodie. I love hunting down new restaurants, cook
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#102](https://github.com/sergiught/auth0-mock/pull/102) in [sergiught/auth0-mock](https://github.com/sergiught/auth0-mock)
-2. 🗣 Commented on [#207](https://github.com/sergiught/openfga-cli/pull/207#issuecomment-6657965893) in [sergiught/openfga-cli](https://github.com/sergiught/openfga-cli)
-3. 💪 Opened PR [#102](https://github.com/sergiught/auth0-mock/pull/102) in [sergiught/auth0-mock](https://github.com/sergiught/auth0-mock)
-4. ℹ️ Unlabeled PR [#207](https://github.com/sergiught/openfga-cli/pull/207) in [sergiught/openfga-cli](https://github.com/sergiught/openfga-cli)
-5. ℹ️ Labeled PR [#207](https://github.com/sergiught/openfga-cli/pull/207) in [sergiught/openfga-cli](https://github.com/sergiught/openfga-cli)
+1. 🗣 Commented on [#217](https://github.com/sergiught/openfga-cli/pull/217#issuecomment-6685012138) in [sergiught/openfga-cli](https://github.com/sergiught/openfga-cli)
+2. 🗣 Commented on [#222](https://github.com/sergiught/openfga-cli/pull/222#issuecomment-6688048620) in [sergiught/openfga-cli](https://github.com/sergiught/openfga-cli)
+3. ℹ️ Labeled PR [#219](https://github.com/sergiught/openfga-cli/pull/219) in [sergiught/openfga-cli](https://github.com/sergiught/openfga-cli)
+4. 🗣 Commented on [#219](https://github.com/sergiught/openfga-cli/pull/219#issuecomment-6689816528) in [sergiught/openfga-cli](https://github.com/sergiught/openfga-cli)
+5. 🚀 Published release [v0.270.0](https://github.com/sergiught/openfga-cli/releases/tag/v0.270.0) in [sergiught/openfga-cli](https://github.com/sergiught/openfga-cli)
 <!--END_SECTION:activity-->
 
 
