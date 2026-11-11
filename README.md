@@ -49,11 +49,11 @@ Off the clock, I’m a serious foodie. I love hunting down new restaurants, cook
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6884](https://github.com/avelino/awesome-go/pull/6884) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-2. ℹ️ Labeled PR [#231](https://github.com/sergiught/openfga-cli/pull/231) in [sergiught/openfga-cli](https://github.com/sergiught/openfga-cli)
-3. 💪 Opened PR [#231](https://github.com/sergiught/openfga-cli/pull/231) in [sergiught/openfga-cli](https://github.com/sergiught/openfga-cli)
-4. 🎉 Merged PR [#225](https://github.com/sergiught/openfga-cli/pull/225) in [sergiught/openfga-cli](https://github.com/sergiught/openfga-cli)
-5. 🎉 Merged PR [#106](https://github.com/sergiught/auth0-mock/pull/106) in [sergiught/auth0-mock](https://github.com/sergiught/auth0-mock)
+1. 🎉 Merged PR [#6884](https://github.com/avelino/awesome-go/pull/6884) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+2. 🗣 Commented on [#233](https://github.com/sergiught/openfga-cli/pull/233#issuecomment-6791524560) in [sergiught/openfga-cli](https://github.com/sergiught/openfga-cli)
+3. 🗣 Commented on [#99](https://github.com/sergiught/auth0-mock/pull/99#issuecomment-6791374939) in [sergiught/auth0-mock](https://github.com/sergiught/auth0-mock)
+4. ℹ️ Labeled PR [#99](https://github.com/sergiught/auth0-mock/pull/99) in [sergiught/auth0-mock](https://github.com/sergiught/auth0-mock)
+5. ℹ️ Unlabeled PR [#99](https://github.com/sergiught/auth0-mock/pull/99) in [sergiught/auth0-mock](https://github.com/sergiught/auth0-mock)
 <!--END_SECTION:activity-->
 
 
