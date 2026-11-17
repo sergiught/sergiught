@@ -49,11 +49,11 @@ Off the clock, I’m a serious foodie. I love hunting down new restaurants, cook
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#136](https://github.com/sergiught/auth0-mock/pull/136) in [sergiught/auth0-mock](https://github.com/sergiught/auth0-mock)
-2. 💪 Opened PR [#136](https://github.com/sergiught/auth0-mock/pull/136) in [sergiught/auth0-mock](https://github.com/sergiught/auth0-mock)
-3. 🎉 Merged PR [#135](https://github.com/sergiught/auth0-mock/pull/135) in [sergiught/auth0-mock](https://github.com/sergiught/auth0-mock)
-4. 💪 Opened PR [#135](https://github.com/sergiught/auth0-mock/pull/135) in [sergiught/auth0-mock](https://github.com/sergiught/auth0-mock)
-5. 🎉 Merged PR [#134](https://github.com/sergiught/auth0-mock/pull/134) in [sergiught/auth0-mock](https://github.com/sergiught/auth0-mock)
+1. 🗣 Commented on [#137](https://github.com/sergiught/auth0-mock/pull/137#issuecomment-6938291396) in [sergiught/auth0-mock](https://github.com/sergiught/auth0-mock)
+2. 💪 Opened PR [#137](https://github.com/sergiught/auth0-mock/pull/137) in [sergiught/auth0-mock](https://github.com/sergiught/auth0-mock)
+3. 🎉 Merged PR [#136](https://github.com/sergiught/auth0-mock/pull/136) in [sergiught/auth0-mock](https://github.com/sergiught/auth0-mock)
+4. 💪 Opened PR [#136](https://github.com/sergiught/auth0-mock/pull/136) in [sergiught/auth0-mock](https://github.com/sergiught/auth0-mock)
+5. 🎉 Merged PR [#135](https://github.com/sergiught/auth0-mock/pull/135) in [sergiught/auth0-mock](https://github.com/sergiught/auth0-mock)
 <!--END_SECTION:activity-->
 
 
