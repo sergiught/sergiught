@@ -49,11 +49,11 @@ Off the clock, I’m a serious foodie. I love hunting down new restaurants, cook
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#137](https://github.com/sergiught/auth0-mock/pull/137#issuecomment-6961726033) in [sergiught/auth0-mock](https://github.com/sergiught/auth0-mock)
-2. 🗣 Commented on [#137](https://github.com/sergiught/auth0-mock/pull/137#issuecomment-6959174412) in [sergiught/auth0-mock](https://github.com/sergiught/auth0-mock)
-3. 🗣 Commented on [#137](https://github.com/sergiught/auth0-mock/pull/137#issuecomment-6960606556) in [sergiught/auth0-mock](https://github.com/sergiught/auth0-mock)
-4. 🗣 Commented on [#137](https://github.com/sergiught/auth0-mock/pull/137#issuecomment-6959803920) in [sergiught/auth0-mock](https://github.com/sergiught/auth0-mock)
-5. 🗣 Commented on [#137](https://github.com/sergiught/auth0-mock/pull/137#issuecomment-6938291396) in [sergiught/auth0-mock](https://github.com/sergiught/auth0-mock)
+1. 💪 Opened PR [#239](https://github.com/sergiught/openfga-cli/pull/239) in [sergiught/openfga-cli](https://github.com/sergiught/openfga-cli)
+2. 🗣 Commented on [#137](https://github.com/sergiught/auth0-mock/pull/137#issuecomment-6961726033) in [sergiught/auth0-mock](https://github.com/sergiught/auth0-mock)
+3. 🗣 Commented on [#137](https://github.com/sergiught/auth0-mock/pull/137#issuecomment-6959174412) in [sergiught/auth0-mock](https://github.com/sergiught/auth0-mock)
+4. 🗣 Commented on [#137](https://github.com/sergiught/auth0-mock/pull/137#issuecomment-6960606556) in [sergiught/auth0-mock](https://github.com/sergiught/auth0-mock)
+5. 🗣 Commented on [#137](https://github.com/sergiught/auth0-mock/pull/137#issuecomment-6959803920) in [sergiught/auth0-mock](https://github.com/sergiught/auth0-mock)
 <!--END_SECTION:activity-->
 
 
